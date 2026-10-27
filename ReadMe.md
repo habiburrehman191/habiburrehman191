@@ -1,4 +1,4 @@
-# 💫 About Me:
+#About Me:
 Hi, I'm Habib Ur Rehman<br>I'm a Computer Science student, passionate about Artificial Intelligence, Cybersecurity, Software Development, and Creative Technologies.<br>- Currently developing LLMGuard, a hybrid AI firewall designed to detect and prevent prompt injection attacks in LLM systems.<br>- Exploring AI/ML, Large Language Models, Cybersecurity, and Intelligent Systems.<br>- Experienced in Graphic Design, UI/UX, 3D Animation, and Digital Media.<br>- Interested in building innovative, secure, and real-world technology solutions.<br>- Always learning, experimenting, and turning ideas into practical projects.<br><br>My Goal: To combine software engineering, artificial intelligence, and creative problem-solving to build technology that makes a meaningful impact.
 
 
@@ -14,9 +14,6 @@ Hi, I'm Habib Ur Rehman<br>I'm a Computer Science student, passionate about Arti
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=habiburrehman191&theme=github_dark&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=habiburrehman191&limit=5&theme=dark&combine_all_yearly_contributions=true)
